@@ -1,0 +1,13 @@
+vladimir@xps:~/kicad/kicad-packages3D/spark.3dshapes$ md5sum sfp-top-molex-sfp-plus-747540-011.wrl sfp-top-molex-sfp-plus-747540-101.wrl
+f852e180a34aa4b9689f9d71c0dec7e1  sfp-top-molex-sfp-plus-747540-011.wrl
+9051a257e34fbdfc8890106304abae7b  sfp-top-molex-sfp-plus-747540-101.wrl
+
+These (above) do not need any offset.
+
+vladimir@xps:~/kicad/kicad-packages3D/spark.3dshapes$ md5sum molex-sfp-plus-747540-011.stp molex-sfp-plus-747540-101.stp
+702363b14c68a5a1927cac2e4b79d91f  molex-sfp-plus-747540-011.stp
+c9b2a9fc47faf1ca3fe379b9f300b329  molex-sfp-plus-747540-101.stp
+
+x=-41,570000 mm, y=0,370000 mm, z=-3,000000 mm
+
+
